@@ -1,9 +1,9 @@
-# codechef-biryani-problem
-According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for X weeks, and the cost of classes per week is Y coins. What is the total amount of money that Chef will have to pay?
+# leetcode-two-sum-problem
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 
 QUESTION-
-![biryani-question-problem-statement](https://github.com/amaan-frontend/codechef-biryani-problem/assets/134868734/4a295f34-ca91-4519-8ee8-abae67f69ad4)
+![question](https://github.com/amaan-frontend/leetcode-two-sum/assets/134868734/b1d10f36-72ac-421a-a45e-bc093a253b20)
 
-solution-
-![solution](https://github.com/amaan-frontend/codechef-biryani-problem/assets/134868734/76c0c060-7359-45d2-bee2-3836d8840b31)
+
